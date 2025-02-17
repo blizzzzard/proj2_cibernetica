@@ -1,3 +1,10 @@
+# Code
+
+The execution of training are in the nootebok:
+
+-----------
+[train.py](https://github.com/blizzzzard/proj2_cibernetica/blob/main/train.ipynb)
+-----------
 
 ## References
 
